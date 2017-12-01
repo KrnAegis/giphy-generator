@@ -1,1 +1,1 @@
-# giphy-homework
+# giphy-generator
